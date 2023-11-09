@@ -1,0 +1,4 @@
+﻿  Pratice2.2.c
+C:\Users\tmfuji64\Documents\Code\11.07\Practice_2.2\Practice_2.2\Pratice2.2.c(12,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tmfuji64\Documents\Code\11.07\Practice_2.2\Practice_2.2\Pratice2.2.c(10,24): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  Practice_2.2.vcxproj -> C:\Users\tmfuji64\Documents\Code\11.07\Practice_2.2\x64\Debug\Practice_2.2.exe

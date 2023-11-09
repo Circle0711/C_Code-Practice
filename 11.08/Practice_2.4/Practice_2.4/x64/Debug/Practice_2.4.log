@@ -1,0 +1,6 @@
+﻿  2.4.c
+C:\Users\tmfuji64\Documents\Code\11.08\Practice_2.4\Practice_2.4\2.4.c(11,20): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\tmfuji64\Documents\Code\11.08\Practice_2.4\Practice_2.4\2.4.c(14,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tmfuji64\Documents\Code\11.08\Practice_2.4\Practice_2.4\2.4.c(15,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tmfuji64\Documents\Code\11.08\Practice_2.4\Practice_2.4\2.4.c(21,21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  Practice_2.4.vcxproj -> C:\Users\tmfuji64\Documents\Code\11.08\Practice_2.4\x64\Debug\Practice_2.4.exe

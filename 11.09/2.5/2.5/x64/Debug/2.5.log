@@ -1,0 +1,8 @@
+﻿  2.5.c
+C:\Users\tmfuji64\Documents\Code\11.09\2.5\2.5\2.5.c(9,53): warning C4474: scanf: 格式字符串中传递的参数太多
+  C:\Users\tmfuji64\Documents\Code\11.09\2.5\2.5\2.5.c(9,53):
+  占位符和其参数预计 6 可变参数，但提供的却是 7 参数
+  
+C:\Users\tmfuji64\Documents\Code\11.09\2.5\2.5\2.5.c(16,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tmfuji64\Documents\Code\11.09\2.5\2.5\2.5.c(17,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  2.5.vcxproj -> C:\Users\tmfuji64\Documents\Code\11.09\2.5\x64\Debug\2.5.exe

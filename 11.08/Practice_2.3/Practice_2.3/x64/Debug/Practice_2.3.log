@@ -1,0 +1,5 @@
+﻿  2.3.c
+C:\Users\tmfuji64\Documents\Code\11.08\Practice_2.3\Practice_2.3\2.3.c(7,8): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\tmfuji64\Documents\Code\11.08\Practice_2.3\Practice_2.3\2.3.c(9,8): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\tmfuji64\Documents\Code\11.08\Practice_2.3\Practice_2.3\2.3.c(11,8): warning C4305: “初始化”: 从“double”到“float”截断
+  Practice_2.3.vcxproj -> C:\Users\tmfuji64\Documents\Code\11.08\Practice_2.3\x64\Debug\Practice_2.3.exe
