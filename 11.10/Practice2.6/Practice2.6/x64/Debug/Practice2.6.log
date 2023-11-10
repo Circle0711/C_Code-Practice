@@ -1,0 +1,4 @@
+﻿  2.6.c
+C:\Users\tmfuji64\Documents\Code\11.10\Practice2.6\Practice2.6\2.6.c(10,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tmfuji64\Documents\Code\11.10\Practice2.6\Practice2.6\2.6.c(7,14): warning C4101: “Xmax”: 未引用的局部变量
+  Practice2.6.vcxproj -> C:\Users\tmfuji64\Documents\Code\11.10\Practice2.6\x64\Debug\Practice2.6.exe
