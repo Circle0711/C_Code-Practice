@@ -1,0 +1,4 @@
+﻿  kadai5.c
+C:\Users\tmfuji64\Documents\Code\11.15\kadai5\kadai5\kadai5.c(11,32): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\tmfuji64\Documents\Code\11.15\kadai5\kadai5\kadai5.c(14,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  kadai5.vcxproj -> C:\Users\tmfuji64\Documents\Code\11.15\kadai5\x64\Debug\kadai5.exe
