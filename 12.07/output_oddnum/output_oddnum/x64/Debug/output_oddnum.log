@@ -1,0 +1,4 @@
+﻿  oddnum_1to100.c
+C:\Users\tmfuji64\Documents\Code\12.07\output_oddnum\output_oddnum\oddnum_1to100.c(7,6): warning C4101: “a”: 未引用的局部变量
+C:\Users\tmfuji64\Documents\Code\12.07\output_oddnum\output_oddnum\oddnum_1to100.c(7,14): warning C4101: “b”: 未引用的局部变量
+  output_oddnum.vcxproj -> C:\Users\tmfuji64\Documents\Code\12.07\output_oddnum\x64\Debug\output_oddnum.exe
